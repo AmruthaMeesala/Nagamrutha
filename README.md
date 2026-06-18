@@ -91,7 +91,7 @@ Interactive Excel dashboard using Pivot Tables, Pivot Charts, KPIs, and Slicers 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/AmruthaMeesala
-* LinkedIn: Coming Soon
+* LinkedIn: linkedin.com/in/nagamrutha-meesala 
 
 ---
 
